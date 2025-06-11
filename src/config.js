@@ -1,0 +1,1 @@
+export const CANVA_URL = 'https://www.canva.com/design/DAGoAZnHQwY/OvsCbeh8XLn3AMvy3laF5g/edit?utm_content=DAGoAZnHQwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'; 
