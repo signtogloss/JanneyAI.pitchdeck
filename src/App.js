@@ -17,9 +17,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>正在跳转到Canva设计页面...</p>
+        <p>Redirecting to Canva design page...</p>
         <p style={{ fontSize: '14px', marginTop: '20px' }}>
-          如果页面没有自动跳转，请检查控制台信息
+          If the page doesn't redirect automatically, please check the console information
         </p>
       </header>
     </div>
